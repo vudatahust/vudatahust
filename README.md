@@ -12,6 +12,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 - [Python Projects](#python-projects)
     + [Covid19 in VietNam](#covid19-in-vietnam)
     + [Used Cars in Europe](#used-cars-in-europe)
+    + [Flights In VietNam](#flights-in-vietnam)
 
 **Data Query Tools**
 
@@ -66,6 +67,14 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Skills**: Convert data types, descriptive statistics, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
 **Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.
+
+
+### Flights in VietNam
+**Code:** [Flights In VietNam](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/eb911b77483aabbfe363d9e351b07e744201924c/Git%20-%20Flights%20in%20VietNam.ipynb).<br> 
+**Description** 2021 is a year of the Covid 19 epidemic, so how has the aviation industry in Vietnam been affected? The analysis with source data of nearly 19,000 rows will give a more specific analysis.<br> 
+**Skills**: Cleaning data, convert data types, times sSeries aAnalysis ,descriptive statistics, data visualization. <br>
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib .<br>
+**Results:** Provide a specific assessment of revenue, profit, tax among airlines and frequency of flights in provinces.
 
 
 
