@@ -60,6 +60,13 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
 **Results:**  Have an overview of the covid 19 situation in Vietnam.
 
+### Used Cars in Europe
+**Code:** [Used Cars in Europe](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/4dce4d41723e0ced711bf691b6e0097222f8e368/Git%20-%20used%20cars%20(1).ipynb).<br> 
+**Description** Analysis based on statistics of 4 major car manufacturers with most market share: BMW, Toyota, Mercedes, Audi and Mercedes with 4 tables, per table have nearly 11000 rows.<br> 
+**Skills**: Convert data types, descriptive statistics, data visualization. <br>
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
+**Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.
+
 
 
 
