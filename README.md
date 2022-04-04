@@ -3,15 +3,8 @@
 
 ## About
 
-I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of Science and Technology**. With the concept that data is an extremely important resource in today's technology era. I aspire to become a data engineer to bring my accumulated knowledge about data to pratical applications to contribute to solving the company's problems
+I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of Science and Technology**. With the concept that data is an extremely important resource in today's technology era. I aspire to become a data engineer to bring my accumulated knowledge about data to pratical applications to contribute to solving the company's problems.
 
-**Table of Contents**
-
-- [About](#about)
-- [Skill Set](#skill-set)
-- [Python Projects](#python-projects)
-    + [Covid19 in VietNam](#covid19-in-vietnam)
-    + [Used Cars in Europe](#used-cars-in-europe)
 - 
 ## Skill Set
 
@@ -51,6 +44,14 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 
 <img title="Microsoft Word" alt="Microsoft Word" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" />|<img  title="Microsoft Excel" alt="Microsoft Excel" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>|<img  title="Microsoft PowerPoint" alt="Microsoft PowerPoint" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/>|
 |--|--|--|
+
+**Table of Contents**
+
+- [About](#about)
+- [Skill Set](#skill-set)
+- [Python Projects](#python-projects)
+    + [Covid19 in VietNam](#covid19-in-vietnam)
+    + [Used Cars in Europe](#used-cars-in-europe)
 
 ## Python Projects
 
