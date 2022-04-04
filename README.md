@@ -52,3 +52,14 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 
 ## Python Projects
 
+### Covid19 in VietNam
+**Code:** [Covid19-VietNam](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/5d5b498446c95947546d8f5e32b97cd982490d4e/Covid-19%20VietNam.ipynb).<br> 
+**Description** The dataset with 289 rows with total Covid 19 cases across Vietnam until May 2020.<br> 
+**Skills**: Data cleaning, dealing with missing values, convert data types, descriptive statistics, data visualization, transform data into different types of dataframe for further study. <br>
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
+**Results:**  Have an overview of the covid 19 situation in Vietnam.
+
+
+
+
+
