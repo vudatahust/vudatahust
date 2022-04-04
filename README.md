@@ -10,8 +10,8 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 - [About](#about)
 - [Skill Set](#skill-set)
 - [Python Projects](#python-projects)
-    + [Covid19 in VietNam](covid19-in-vietnam)
-    + [Used Cars in Europe](used-cars-in-europe)
+    + [Covid19 in VietNam](#covid19-in-vietnam)
+    + [Used Cars in Europe](#used-cars-in-europe)
 - 
 ## Skill Set
 
