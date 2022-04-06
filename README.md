@@ -13,6 +13,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
     + [Covid19 in VietNam](#covid19-in-vietnam)
     + [Used Cars in Europe](#used-cars-in-europe)
     + [Flights In VietNam](#flights-in-vietnam)
+    + [Customer Segmentation with RFM model](#customer-segmentation-with-rfm-model)
 
 **Data Query Tools**
 
@@ -60,6 +61,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Skills**: Data cleaning, dealing with missing values, convert data types, descriptive statistics, data visualization, transform data into different types of dataframe for further study. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
 **Results:**  Have an overview of the covid 19 situation in Vietnam.
+**Language** Vietnamese
 
 ### Used Cars in Europe
 **Code:** [Used Cars in Europe](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/4dce4d41723e0ced711bf691b6e0097222f8e368/Git%20-%20used%20cars%20(1).ipynb).<br> 
@@ -67,6 +69,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Skills**: Convert data types, descriptive statistics, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
 **Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.
+**Language** English
 
 
 ### Flights in VietNam
@@ -75,6 +78,16 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Skills**: Cleaning data, convert data types, times sSeries aAnalysis ,descriptive statistics, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib .<br>
 **Results:** Provide a specific assessment of revenue, profit, tax among airlines and frequency of flights in provinces.
+**Language** Vietnamese
+
+
+### Customer Segmentation with RFM model
+**Code:** [Customer Segmentation with RFM model](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/5693b5a495f9f00295bf2e1bf8729c6e8bd27528/Customer%20Segmentation%20with%20RFM%20model.ipynb).<br> 
+**Description** RFM model is a model that helps business enterprises to classify their customers. Model is based on three quantitative factors namely recency, frequency, and monetary value.<br> 
+**Skills**: Cleaning data, convert data types, times Series Analysis ,descriptive statistics, group by data, data visualization. <br>
+**Technology:** Python, Pandas, Numpy, Matplotlib .<br>
+**Results:** Assess the sales situation of the business, recommend the customer groups to focus on.
+**Language** Vietnamese
 
 
 
