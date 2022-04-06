@@ -83,7 +83,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 
 ### Customer Segmentation with RFM model
 **Code:** [Customer Segmentation with RFM model](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/5693b5a495f9f00295bf2e1bf8729c6e8bd27528/Customer%20Segmentation%20with%20RFM%20model.ipynb).<br> 
-**Description** RFM model is a model that helps business enterprises to classify their customers. Model is based on three quantitative factors namely recency, frequency, and monetary value.<br> 
+**Description** Dataset with more 1.000.000 rows and with RFM model is a model that helps business enterprises to classify their customers. Model is based on three quantitative factors namely recency, frequency, and monetary value.<br> 
 **Skills**: Cleaning data, convert data types, times Series Analysis ,descriptive statistics, group by data, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Matplotlib .<br>
 **Results:** Assess the sales situation of the business, recommend the customer groups to focus on.
