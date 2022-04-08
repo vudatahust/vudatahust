@@ -60,7 +60,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Description** The dataset with 289 rows with total Covid 19 cases across Vietnam until May 2020.<br> 
 **Skills**: Data cleaning, dealing with missing values, convert data types, descriptive statistics, data visualization, transform data into different types of dataframe for further study. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
-**Results:**  Have an overview of the covid 19 situation in Vietnam.
+**Results:**  Have an overview of the covid 19 situation in Vietnam.<br>
 **Language** Vietnamese
 
 ### Used Cars in Europe
@@ -68,7 +68,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Description** Analysis based on statistics of 4 major car manufacturers with most market share: BMW, Toyota, Mercedes, Audi and Mercedes with 4 tables, per table have nearly 11000 rows.<br> 
 **Skills**: Convert data types, descriptive statistics, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.<br>
-**Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.
+**Results:**  Detecting statistically significant result with a recommendation to buy or sell your used car.<br>
 **Language** English
 
 
@@ -77,7 +77,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Description** 2021 is a year of the Covid 19 epidemic, so how has the aviation industry in Vietnam been affected? The analysis with source data of nearly 19,000 rows will give a more specific analysis.<br> 
 **Skills**: Cleaning data, convert data types, times sSeries aAnalysis ,descriptive statistics, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib .<br>
-**Results:** Provide a specific assessment of revenue, profit, tax among airlines and frequency of flights in provinces.
+**Results:** Provide a specific assessment of revenue, profit, tax among airlines and frequency of flights in provinces.<br>
 **Language** Vietnamese
 
 
@@ -86,7 +86,7 @@ I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of
 **Description** Dataset with more 1.000.000 rows and with RFM model is a model that helps business enterprises to classify their customers. Model is based on three quantitative factors namely recency, frequency, and monetary value.<br> 
 **Skills**: Cleaning data, convert data types, times Series Analysis ,descriptive statistics, group by data, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Matplotlib .<br>
-**Results:** Assess the sales situation of the business, recommend the customer groups to focus on.
+**Results:** Assess the sales situation of the business, recommend the customer groups to focus on.<br>
 **Language** Vietnamese
 
 
