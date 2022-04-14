@@ -3,7 +3,7 @@
 
 ## About
 
-I'm a **Fresher Data Analyst**, graduated in **2021** from **Hanoi University of Science and Technology**. With the concept that data is an extremely important resource in today's technology era. I aspire to become a data engineer to bring my accumulated knowledge about data to pratical applications to contribute to solving the company's problems.
+I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University of Science and Technology**. With the concept that data is an extremely important resource in today's technology era. I aspire to become a data engineer to bring my accumulated knowledge about data to pratical applications to contribute to solving the company's problems.
 
 **Table of Contents**
 
