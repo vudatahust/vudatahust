@@ -14,6 +14,7 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University o
     + [Used Cars in Europe](#used-cars-in-europe)
     + [Flights In VietNam](#flights-in-vietnam)
     + [Customer Segmentation with RFM model](#customer-segmentation-with-rfm-model)
+    + [Cristiano Ronaldo vs Lionel Messi](#cristiano-ronaldo-vs-lionel-messi)
 
 **Data Query Tools**
 
@@ -87,6 +88,15 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University o
 **Skills**: Cleaning data, convert data types, times Series Analysis ,descriptive statistics, group by data, data visualization. <br>
 **Technology:** Python, Pandas, Numpy, Matplotlib .<br>
 **Results:** Assess the sales situation of the business, recommend the customer groups to focus on.<br>
+**Language** Vietnamese
+
+
+### Cristiano Ronaldo vs Lionel Messi
+**Code:** [Cristiano Ronaldo vs Lionel Messi](https://github.com/vudatahust/LearnPythonofDatavisualization/blob/d5676415458cd18a41c343527c017a34176a7f7b/CR7%20and%20Messi.ipynb).<br> 
+**Description** Dataset with more 1.500 rows and the data has made comparisons of the performance of Cristiano Ronaldo and Lionel Messi including: playing time, number of goals scored....<br> 
+**Skills**: Cleaning data, convert data types, Times Series Analysis ,clustering data with Lambda, group by data, data visualization. <br>
+**Technology:** Python, Pandas, Numpy, Matplotlib and Express .<br>
+**Results:** Have a look at the playing ability of these 2 famous players.<br>
 **Language** Vietnamese
 
 
