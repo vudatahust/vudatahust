@@ -33,8 +33,8 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University o
 |--|--|--|--|
 
 **Visualization Tools**
-<img title="Tableau" alt="Tableau" width="40px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />|
-|--|
+<img title="Tableau" alt="Tableau" width="40px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />|<img title="Power BI" alt="powerbi" width="70px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.jpg" />|
+|--|--|
 
 
 **Data Warehouse**
@@ -44,8 +44,8 @@ I'm a **Fresher Data Engineer**, graduated in **2021** from **Hanoi University o
 
 **Tools**
 
-<img title="SQL Server Management studio" alt="SQL Server" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" />|<img  title="Numpy" alt="Numpy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
-|--|--|
+<img title="SQL Server Management studio" alt="SQL Server" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png" />|<img  title="Jupiter Notebook" alt="Jupiter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>|<img  title="Visua Studio Code" alt="Visua" width="50px" src="https://i.imgur.com/rzsamvV.png"/>
+|--|--|--|
 
 
 **Microsoft Office**
